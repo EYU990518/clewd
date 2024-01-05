@@ -16,7 +16,7 @@ module.exports = {
   localtunnel: false,
   BufferSize: 1,
   SystemInterval: 3,
-  rProxy: "https://c2-rproxy-jzd6ua.teralomaniac.eu.org",
+  rProxy: "",
   api_rProxy: "",
   padtxt_placeholder: "",
   PromptExperimentFirst: "",
@@ -40,7 +40,7 @@ module.exports = {
     FullColon: true,
     padtxt: 15000,
     xmlPlot: true,
-    Superfetch: false,
+    Superfetch: true,
   },
 };
 
